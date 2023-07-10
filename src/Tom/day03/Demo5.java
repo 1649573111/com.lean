@@ -1,4 +1,4 @@
-package day03;
+package Tom.day03;
 
 /**
  * 去掉最高和最低,求平均数

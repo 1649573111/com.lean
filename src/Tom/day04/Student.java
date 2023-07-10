@@ -1,4 +1,4 @@
-package day04;
+package Tom.day04;
 
 /**
  * 定义了一个Student类

@@ -1,4 +1,4 @@
-package day02;
+package Tom.day02;
 
 /**
  * @author 16495
