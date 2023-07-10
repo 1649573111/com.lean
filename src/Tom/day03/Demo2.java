@@ -1,4 +1,4 @@
-package day03;
+package Tom.day03;
 
 import java.util.Random;
 
